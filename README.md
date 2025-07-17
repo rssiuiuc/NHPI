@@ -1,6 +1,6 @@
 # NHPI
 
-**Normalized Harvest Phenology Index (NHPI)** is a remote sensing–based framework for estimating harvesting dates of corn and soybean using Google Earth Engine (GEE). This repository supports the implementation and reproducibility of our research.
+**Normalized Harvest Phenology Index (NHPI)** is a remote sensing–based spectral index designed to estimate harvesting dates of corn and soybean using Google Earth Engine (GEE). This repository provides tools to apply NHPI for harvesting date detection based on user-defined analysis needs.
 
 ## 🌐 Interactive Demo
 
