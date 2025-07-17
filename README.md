@@ -27,5 +27,5 @@ The interactive tool allows users to:
 
 ## 📢 Note
 
-The interactive GEE demo is currently accessible. The complete source code (JavaScript and Python) will be released after the formal publication of the associated paper to ensure reproducibility and proper citation.
+The interactive GEE demo is currently accessible. The complete source code (JavaScript and Python) will be released after the formal publication of the associated paper.
 
