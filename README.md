@@ -6,6 +6,7 @@
 
 Try the NHPI demo here:  
 👉 [https://ee-cuglyfrank.projects.earthengine.app/view/nhpi-demo](https://ee-cuglyfrank.projects.earthengine.app/view/nhpi-demo)
+<img width="3832" height="1575" alt="NHPI-GEE-Demo" src="https://github.com/user-attachments/assets/0339c073-0b30-4f94-a51c-3bfcb8a7582f" />
 
 The interactive tool allows users to:
 - Click on the map to sample a field
