@@ -9,9 +9,15 @@ Try the NHPI demo here:
 <img width="3832" height="1575" alt="NHPI-GEE-Demo" src="https://github.com/user-attachments/assets/0339c073-0b30-4f94-a51c-3bfcb8a7582f" />
 
 The interactive tool allows users to:
-- Click on the map to sample a field
-- Visualize the time series of NHPI, NDVI, and detected harvest date
-- Adjust the NHPI threshold to examine its effect on harvesting date detection
+<ul>
+  <li>Click on the map to sample a field</li>
+  <li>Visualize the time series of NHPI, NDVI, and detected harvest date</li>
+  <li>Adjust the NHPI threshold to examine its effect on harvesting date detection</li>
+</ul>
+
+<p><strong>Reminder:</strong> Each step may take time to process. Please wait for the result to appear before clicking again.</p>
+
+
 
 ## 📂 Repository Contents
 
@@ -24,7 +30,7 @@ The interactive tool allows users to:
 
 - 🐍 **Jupyter Notebook (GEE Python API)**  
   Code to reproduce large-scale harvesting date estimation using the GEE Python API.  
-  *(Will be made public upon publication.)*
+  *(Will be publicly available upon formal publication.)*
 
 ## 📢 Note
 
