@@ -28,10 +28,6 @@ The interactive tool allows users to:
   Full source code used in the analysis and visualization.  
   *(Will be publicly available upon formal publication.)*
 
-- 🐍 **Jupyter Notebook (GEE Python API)**  
-  Code to reproduce large-scale harvesting date estimation using the GEE Python API.  
-  *(Will be publicly available upon formal publication.)*
-
 ## 📢 Note
 
 The interactive GEE demo is currently accessible. The complete source code (JavaScript and Python) will be released after the formal publication of the associated paper.
