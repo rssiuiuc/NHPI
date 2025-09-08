@@ -25,7 +25,7 @@ The interactive tool allows users to:
   Hosted app for exploring NHPI-based harvesting date estimates (see link above).
 
 - 🟨 **Google Earth Engine JavaScript Code**  
-  Full source code used in the analysis and visualization. 👉 [NHPI-GEE](https://code.earthengine.google.com/7ea1c810b91ce3062541d13110f78257)
+  Full source code used in the analysis and visualization. 👉 [NHPI-GEE](https://code.earthengine.google.com/9367fc3857d66ca25a1def4ecb9d4ff1)
 
 
 ## Author
