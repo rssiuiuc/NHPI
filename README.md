@@ -25,10 +25,31 @@ The interactive tool allows users to:
   Hosted app for exploring NHPI-based harvesting date estimates (see link above).
 
 - 🟨 **Google Earth Engine JavaScript Code**  
-  Full source code used in the analysis and visualization.  
-  *(Will be publicly available upon formal publication.)*
+  Full source code used in the analysis and visualization. 👉 [NHPI-GEE](https://code.earthengine.google.com/7ea1c810b91ce3062541d13110f78257)
 
-## 📢 Note
 
-The interactive GEE demo is currently accessible. The complete source code (JavaScript) will be released after the formal publication of the associated paper.
+## Author
+Yin Liu (yinl3@illinois.edu)
+
+Chunyuan Diao (chunyuan@illinois.edu)
+
+[Remote Sensing Space-Time Innovation Lab](https://diaorssilab.web.illinois.edu/)
+
+Department of Geography & GIScience, University of Illinois at Urbana-Champaign
+
+
+## Acknowledgement
+This project is supported by the National Science Foundation’s Office of Advanced Cyberinfrastructure under grant 2048068 and 2518299.
+
+## Citation
+If you use this work in any way, please mention this citation:
+```markdown
+@article
+{Title: ,
+ Authors: ,
+ Publication: ,
+ Year: ,
+ Volume:
+ Page: ,
+ DOI: }
 
