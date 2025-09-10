@@ -45,11 +45,12 @@ This project is supported by the National Science Foundation’s Office of Advan
 If you use this work in any way, please mention this citation:
 ```markdown
 @article
-{Title: ,
- Authors: ,
- Publication: ,
- Year: ,
- Volume:
- Page: ,
- DOI: }
+{Title: A novel Normalized Harvest Phenology Index (NHPI) for corn and soybean harvesting date detection using Landsat and Sentinel-2 imagery on Google Earth Engine,
+ Authors: Liu, Y., Diao, C., Yang, Z., Mei, W., Guo, T.,
+ Publication: Remote Sensing of Environment,
+ Year: 2025,
+ Volume: 331,
+ Page: 115016,
+ DOI: 10.1016/j.rse.2025.115016 }
+
 
